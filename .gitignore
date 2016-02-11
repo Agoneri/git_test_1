@@ -49,3 +49,7 @@ Temporary Items
 # node.js
 node_modules/
 npm-debug.log
+
+#basic directories
+android/
+ios/
